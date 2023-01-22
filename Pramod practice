@@ -1,0 +1,9 @@
+include<iostream>
+#using namespace std;
+
+int main(){
+int a=12;
+cout << "The integer named a is - ", a<<;
+
+return 0;
+}
